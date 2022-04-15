@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NadyaCodes/iss_spotter/issues"
   },
-  "homepage": "https://github.com/NadyaCodes/iss_spotter#readme"
+  "homepage": "https://github.com/NadyaCodes/iss_spotter#readme",
+  "dependencies": {
+    "request-promise-native": "^1.0.9"
+  }
 }
